@@ -18,7 +18,7 @@
 ```typescript
 const s0uzx = {
     pronouns: "ela/dela",
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
+    code: ["JavaScript", "TypeScript"],
     askMeAbout: ["web dev", "tech", "app dev", "designer"],
     technologies: {
         frontEnd: {
