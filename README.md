@@ -85,7 +85,7 @@ const s0uzx = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/s0uzx/s0uzx/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/s0uzx/workflows/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ## 📈 Atividade GitHub
@@ -112,7 +112,7 @@ const s0uzx = {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" />
 </div>
 
 <div align="center">
